@@ -1,0 +1,12 @@
+# .gitignore
+# Node
+node_modules/
+build/
+
+# Java
+ems-backend/target/
+*.log
+
+# General
+.DS_Store
+.env
